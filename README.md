@@ -17,6 +17,13 @@ APIキーや認証は不要で、誰でも利用可能です。
   → 都市名から緯度・経度を取得  
  
 ---
+## システム設計図
+![System Diagram](tenkiAPI_kido/image/system_design.png)
+ 
+## コード説明図
+![Code Diagram](tenkiAPI_kido/image/code_structure.png)
+
+---
  
 ## 📂 ファイル構成
 weather-app/
@@ -30,4 +37,5 @@ weather-app/
 
 アプリを起動
 streamlit run app.py
+
 
