@@ -38,4 +38,6 @@ weather-app/
 アプリを起動
 streamlit run app.py
 
+課題３https://github.com/ShunsukeKido/22050004_kido_kadai2/blob/main/improvement.md
+
 
